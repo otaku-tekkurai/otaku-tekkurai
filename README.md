@@ -5,13 +5,6 @@
 ![otaku-tekkurai's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=otaku-tekkurai&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 
-# GitHub Profile Stats for hoangsonww
-
-## Must-Have Stats
-
-These are the must-have stats for your GitHub profile. Feel free to select one or more of them and add them to your profile. It is recommended to have a maximum of one or two of these stats in your profile.
-
-
 <div align="center">
     <img src="https://github-contribution-stats.vercel.app/api/?username=otaku-tekkurai&theme=radical&layout=compact" alt="Otaku Tekkurai's GitHub Contributions" />
 </div>
@@ -28,11 +21,6 @@ These are the must-have stats for your GitHub profile. Feel free to select one o
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaku-tekkurai&layout=compact&theme=radical&langs_count=20" alt="Top Langs" />
 </div>
 
----
-
-## Additional Stats
-
-These are the additional stats for your GitHub profile. You can select one or more of them and add them to your profile. It is recommended to have a maximum of three of these stats in your profile.
 
 ### Detailed Languages
 <div align="center">

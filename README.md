@@ -47,14 +47,6 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=hoangsonww.hoangsonww" alt="Visitor Count" />
 </div>
 
-### Sponsor Me
-<div align="center">
-    <a href="https://github.com/sponsors/hoangsonww">
-        <img src="https://img.shields.io/badge/Sponsor-%40hoangsonww-blue?style=flat&logo=github" alt="Sponsor me" />
-    </a>
-</div>
 
----
 
-Created with ❤️ by [Son Nguyen Hoang](https://github.com/hoangsonww) in 2023.
 

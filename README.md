@@ -11,9 +11,6 @@
 
 These are the must-have stats for your GitHub profile. Feel free to select one or more of them and add them to your profile. It is recommended to have a maximum of one or two of these stats in your profile.
 
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=otaku-tekkurai&theme=radical" alt="Otaku Tekkurai's GitHub Streak" />
-</div>
 
 <div align="center">
     <img src="https://github-contribution-stats.vercel.app/api/?username=otaku-tekkurai&theme=radical&layout=compact" alt="Otaku Tekkurai's GitHub Contributions" />

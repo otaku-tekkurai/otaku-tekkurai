@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-![otaku-tekkurai's Stats](https://github-readme-stats.vercel.app/api?username=otaku-tekkurai&theme=tokyonight&show_icons=true&hide_border=false&count_private=true) ![otaku-tekkurai's Streak](https://github-readme-streak-stats.herokuapp.com/?user=otaku-tekkurai&theme=tokyonight&hide_border=false)
-
-![otaku-tekkurai's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=otaku-tekkurai&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
-
 
 <div align="center">
     <img src="https://github-contribution-stats.vercel.app/api/?username=otaku-tekkurai&theme=radical&layout=compact" alt="Otaku Tekkurai's GitHub Contributions" />
@@ -34,17 +30,12 @@
 
 ### Repositories Contribution Graph
 <div align="center">
-    <img src="https://ghchart.rshah.org/otaku-tekkurai" alt="Hoang Son's Repos Contributions" />
+    <img src="https://ghchart.rshah.org/otaku-tekkurai" alt="Otaku Tekkurai's Repos Contributions" />
 </div>
 
 ### GitHub Contributions Graph
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=otaku-tekkurai&theme=radical" alt="Otaku Tekkurai's GitHub Achievements" />
-</div>
-
-### Visitor Count
-<div align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=hoangsonww.hoangsonww" alt="Visitor Count" />
 </div>
 
 
